@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**msiric/msiric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mario Širić
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+🖥️ **Senior Software Engineer** @ **Microsoft**  
+📍 **Prague, Czech Republic**  
+🎓 **Master's in Cybersecurity**  
+  
+</div>
+
+#
+
+<div align="center">
+  
+### 👋 Reach out
+  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mariosiric/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/msiric/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mario.siric25@gmail.com)
+  
+</div>
