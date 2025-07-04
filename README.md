@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mario Širić
+# 👋 Hi, I'm Mario
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   
-### 👋 Reach out
+### 💬 Reach out
   
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mariosiric/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/msiric/)
